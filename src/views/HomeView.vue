@@ -2,13 +2,13 @@
  * @Author: wuxs 317009160@qq.com
  * @Date: 2023-07-25 13:21:01
  * @LastEditors: wuxs 317009160@qq.com
- * @LastEditTime: 2023-07-25 23:40:18
+ * @LastEditTime: 2023-07-26 00:06:49
  * @FilePath: \element-uid:\studio\ai-assist-learning-platform\src\views\HomeView.vue
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
+    <img class="m-auto" alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
     <button class="text-blue-500">按钮</button>
 
